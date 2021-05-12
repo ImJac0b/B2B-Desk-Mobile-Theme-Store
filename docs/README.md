@@ -126,12 +126,6 @@ Click on the "VISIT STORE" on the top bar to preview your store.
 
 ![Screen Shot 2021-02-25 at 10.18.28](/assets/Screen%20Shot%202021-02-25%20at%2010.18.28.png)
 
-You should see a fully working B2B Store Theme.
-
-![Screen Shot 2021-02-25 at 10.21.04](/assets/Screen%20Shot%202021-02-25%20at%2010.21.04.png)
-
-:warning: &nbsp;**Heads up!** If you're setting up the theme on a working environment (with previously setup resources) you have to map categories links in menus and across the theme and also map shelves queries to a working criteria in case you have multiple trade policies.
-
 You now should have a fully working B2B Environment and B2B Store Theme setup and ready to be used.
 
 That's it!
